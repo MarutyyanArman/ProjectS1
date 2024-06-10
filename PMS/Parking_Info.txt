@@ -1,0 +1,22 @@
+--Parking Space Information--
+
+Spot 1: Available
+Spot 2: Available
+Spot 3: Available
+Spot 4: Available
+Spot 5: Available
+Spot 6: Available
+Spot 7: Available
+Spot 8: Available
+Spot 9: Available
+Spot 10: Available
+Spot 11: Available
+Spot 12: Available
+Spot 13: Available
+Spot 14: Available
+Spot 15: Available
+Spot 16: Available
+Spot 17: Available
+Spot 18: Available
+Spot 19: Available
+Spot 20: Available
